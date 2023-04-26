@@ -1,0 +1,6 @@
+Z:\Programming\ProjectC#\FotoPostEditor\bin\Release\net6.0-windows\publish\win-x64\FotoPostEditor.exe
+Z:\Programming\ProjectC#\FotoPostEditor\bin\Release\net6.0-windows\publish\win-x64\FotoPostEditor.deps.json
+Z:\Programming\ProjectC#\FotoPostEditor\bin\Release\net6.0-windows\publish\win-x64\FotoPostEditor.runtimeconfig.json
+Z:\Programming\ProjectC#\FotoPostEditor\bin\Release\net6.0-windows\publish\win-x64\FotoPostEditor.pdb
+Z:\Programming\ProjectC#\FotoPostEditor\bin\Release\net6.0-windows\publish\win-x64\Newtonsoft.Json.dll
+Z:\Programming\ProjectC#\FotoPostEditor\bin\Release\net6.0-windows\publish\win-x64\FotoPostEditor.dll
